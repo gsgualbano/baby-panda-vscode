@@ -1,0 +1,21 @@
+{
+    "name": "baby-panda",
+    "displayName": "Baby Panda",
+    "description": "A theme based on Panda Syntax but with typescript support",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Baby Panda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Baby Panda-color-theme.json"
+            }
+        ]
+    }
+}
