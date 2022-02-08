@@ -1,4 +1,4 @@
-![Baby Panda Logo](https://raw.githubusercontent.com/gsgualbano/baby-panda-vscode/main/baby-panda.png)
+![Baby Panda Logo](https://raw.githubusercontent.com/gsgualbano/baby-panda-vscode/main/images/baby-panda.png)
 
 A theme for [Visual Code](https://code.visualstudio.com/), based on the [Panda Syntax theme](https://github.com/PandaTheme/panda-syntax-vscode) but designed to have typescript support.
 
