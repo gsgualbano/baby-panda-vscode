@@ -9,6 +9,21 @@
     "categories": [
         "Themes"
     ],
+    "author": {
+        "name": "Gustavo Gualbano"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gsgualbano/baby-panda-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/gsgualbano/baby-panda-vscode/issues"
+    },
+    "galleryBanner": {
+        "color": "#FF75B5",
+        "theme": "dark"
+    },
+    "icon": "images/baby-panda.png",
     "contributes": {
         "themes": [
             {
